@@ -141,7 +141,8 @@ function AppScaffold() {
             <Avatar.Icon size={size} icon="information-outline" />
           )}
         >
-          A todo was added! This screen demonstrates Redux state, responsive layout (Haptics, Device).
+          A todo was added Successfully! This screen demonstrates Redux state, responsive layout (Haptics, Device).
+          NANGOPYA SI MIKEREY BERNASOR
         </Banner>
       )}
 
@@ -308,4 +309,5 @@ const styles = StyleSheet.create({
   columnTablet: { flex: 1 },
   card: { marginBottom: 12, borderRadius: 16, overflow: "hidden" },
   footer: { justifyContent: "center" },
+
 });
