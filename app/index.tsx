@@ -142,7 +142,7 @@ function AppScaffold() {
           )}
         >
           A todo was added Successfully! This screen demonstrates Redux state, responsive layout (Haptics, Device).
-          NANGOPYA SI MIKEREY BERNASOR
+          NANGOPYA SI MIKEREY BERNASOR sir!
         </Banner>
       )}
 
@@ -311,3 +311,4 @@ const styles = StyleSheet.create({
   footer: { justifyContent: "center" },
 
 });
+
